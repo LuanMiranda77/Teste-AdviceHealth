@@ -70,11 +70,6 @@ dados do paciente, do agendamento, do médico e dos valores cobrados;
 
 ## 📀 Como rodar
 
-Acesse a pasta do projeto no terminal/cmd.
-```bash
-cd front-end
-```
-
 Instale as dependências.
 ```bash
 yarn install
