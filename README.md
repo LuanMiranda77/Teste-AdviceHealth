@@ -10,16 +10,16 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,java,spring,react,postgres,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs&theme=dark)](https://skillicons.dev)
 
 <!-- <img src="https://img.shields.io/static/v1?label=Blog&message=Rocketseat&color=7159c1&style=for-the-badge&logo=ghost"/> -->
- <img alt="GitHub package.json version (subfolder of monorepo)" src="https://img.shields.io/github/package-json/v/LuanMiranda77/smart-commerce?color=blue&filename=front-end%2Fpackage.json">
-<img alt="GitHub" src="https://img.shields.io/github/license/LuanMiranda77/smart-commerce">
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/LuanMiranda77/smart-commerce/total">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LuanMiranda77/smart-commerce">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/LuanMiranda77/smart-commerce">
-<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/LuanMiranda77/smart-commerce?color=red">
-<img alt="GitHub forks" src="https://img.shields.io/github/forks/LuanMiranda77/smart-commerce?style=social">
+ <img alt="GitHub package.json version (subfolder of monorepo)" src="https://img.shields.io/github/package-json/v/LuanMiranda77/Teste-AdviceHealth?color=blue&filename=front-end%2Fpackage.json">
+<img alt="GitHub" src="https://img.shields.io/github/license/LuanMiranda77/Teste-AdviceHealth">
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/LuanMiranda77/Teste-AdviceHealth/total">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/LuanMiranda77/Teste-AdviceHealth">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/LuanMiranda77/Teste-AdviceHealth">
+<img alt="GitHub closed issues" src="https://img.shields.io/github/issues-closed/LuanMiranda77/Teste-AdviceHealth?color=red">
+<img alt="GitHub forks" src="https://img.shields.io/github/forks/LuanMiranda77/Teste-AdviceHealth?style=social">
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/LuanMiranda77?style=social">
 </div>
 
@@ -91,38 +91,35 @@ disponivel em : https://nodejs.org/en/download/
 
 
 ## 🚀 Features desenvolvida
-
-- [ ] Cadastro de usuário
-- [ ] Cadastro de cliente
-- [ ] Cadastro de produtos
 - [x] Cadastro de estabelecimento
-- [ ] Cadastro de MDE
 - [x] Cadastro de Dashboard
-- [ ] Configuração base do sistema
-- [ ] Relatório de movimentação entrada
-- [ ] Relatório de movimentação saída
+- [x] Configuração base do sistema
+- [x] Agendamento de consulta
+- [x] Cadastro de paciente
+- [x] Relatório de consultas agendadas
+- [x] Alterar o tema para a cor dark
 
 ## 🧬 Demonstração da aplicação
-<div align="center">
-    <img width="100%" src="https://user-images.githubusercontent.com/60722028/200129343-c4e17de3-6b02-494e-bb98-728758346895.png">
-</div>
-
 ### View inicial e carinha do sistema
 ---
- <img width="100%" src="https://user-images.githubusercontent.com/60722028/200131486-db6d3628-6d6d-4127-887c-dafb960ee303.gif">
+ <img width="100%" src="https://user-images.githubusercontent.com/60722028/218289157-f7f2dcf1-54ca-411c-b262-3a15cbd4ec2e.gif">
  
-### View de produto e estoque
+### Troca para tema dark
 ---
- <img width="100%" src="https://user-images.githubusercontent.com/60722028/200131732-64cd9953-77b8-43dd-84e2-d255f7860d19.gif">
+ <img width="100%" src="https://user-images.githubusercontent.com/60722028/218289405-efd3f83b-fef9-4e3b-9db1-263fb1d59c4b.gif">
+ 
+ ### Dashboard do sistema
+ ---
+ <img width="100%" src="https://user-images.githubusercontent.com/60722028/218289443-5983486b-aa9e-427d-9758-ca351c7f01c2.gif">
 
-### View do MDE (Entrada de notas fiscais)
+### Gerenciando consultas
 ---
- <img width="100%" src="https://user-images.githubusercontent.com/60722028/200132023-94c37e46-0bb1-45e8-b813-1efd3cb0a254.gif">
- 
+ <img width="100%" src="https://user-images.githubusercontent.com/60722028/218289470-3ae22382-3b88-4121-a77d-34b3114b409f.gif">
+
+
  ## 📢 Prototipagem do projeto
  Disponivel em : https://www.figma.com/file/8NQ2VryZdHRAKBa7rxm2BJ/web-teste-advice-health?node-id=11%3A1003&t=U4K6VmH0vredgSGA-1
 
- 
 
 ## 🛠 Tecnologias
 As seguintes ferramentas foram usadas na construção do projeto:
