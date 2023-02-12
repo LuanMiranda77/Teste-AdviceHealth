@@ -9,6 +9,7 @@ export type PacienteType = {
     logradouro:string ;
     numero:string ;
     cidade:string ;
+    bairro:string ;
     uf:string ;
     telefone:string ;
     email:string ;

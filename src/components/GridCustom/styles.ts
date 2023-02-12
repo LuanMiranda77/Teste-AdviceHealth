@@ -27,7 +27,8 @@ export const Grid  = styled.ul`
     //adicionar stylos
     width: 100%;
     overflow-y: auto;
-    max-height: 85%;
+    height: 85%;
+    /* max-height: 85%; */
 
 @media screen and (max-width: 40em) {
     //adicionar o stylo responsivo

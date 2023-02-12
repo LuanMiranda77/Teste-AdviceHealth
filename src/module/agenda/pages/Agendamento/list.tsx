@@ -67,7 +67,7 @@ const Lista: React.FC<ListaProps> = (props) => {
             <Divider tipo="horizontal" />
         </header>
 
-        <div className='card-local-2 p-2' style={{ height: "calc(100vh - 200px)" }}>
+        <div className='card-local-2 p-2' style={{ height: "calc(100vh - 230px)" }}>
             <DataGridDefault dataSource={array} hoverStateEnabled showColumnLines rowAlternationEnabled isSearch isHeader headerChildren={headertable} cssSearch='w-10/12'>
                 <Column dataField='cpf' caption='CPF' alignment='center' dataType='string' width={100} cssClass='font-bold column-1' />
                 <Column dataField='paciente' caption='Paciente' alignment='' dataType='string' cssClass='font-bold' />
